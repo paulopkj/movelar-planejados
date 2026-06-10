@@ -138,7 +138,7 @@ function iniciarContador() {
 
     let numero = 0;
 
-    const incremento = alvo / 80;
+    const incremento = alvo / 240;
 
     function atualizar() {
       numero += incremento;
